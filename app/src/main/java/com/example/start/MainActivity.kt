@@ -11,7 +11,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         outputButton.setOnClickListener {
-            val intent = Intent(this, ViewPagerFragment::class.java)
+            val intent = Intent(this, scroll_view::class.java)
             startActivity(intent)
         }
     }

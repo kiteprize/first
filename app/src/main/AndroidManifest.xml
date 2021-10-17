@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Start">
         <activity
+            android:name=".ContactsViewHolder"
+            android:exported="true" />
+        <activity
+            android:name=".Contacts"
+            android:exported="true" />
+        <activity
+            android:name=".scroll_view"
+            android:exported="true" />
+        <activity
             android:name=".ViewPagerFragment"
             android:exported="true" />
         <activity
@@ -17,6 +26,7 @@
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>

@@ -4,7 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/start/app/src/main/res/drawable/ic_launcher_background.xml" value="0.38229166666666664" />
+        <entry key="..\:/start/app/src/main/res/layout/activity_contacts.xml" value="0.1" />
+        <entry key="..\:/start/app/src/main/res/layout/activity_contacts_view_holder.xml" value="0.1" />
         <entry key="..\:/start/app/src/main/res/layout/activity_main.xml" value="0.2303370786516854" />
+        <entry key="..\:/start/app/src/main/res/layout/activity_scroll_view.xml" value="0.1" />
         <entry key="..\:/start/app/src/main/res/layout/day_calculator.xml" value="0.33" />
         <entry key="..\:/start/app/src/main/res/layout/view_pager.xml" value="0.36614583333333334" />
         <entry key="..\:/start/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.38229166666666664" />
